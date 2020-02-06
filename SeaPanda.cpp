@@ -8,7 +8,6 @@ void printt(vector<T>& vec){cout<<"\n*********\n";
         cout<<vec[i]<<" ";
     }
     cout<<"\n*********\n";
-    AW;
 }
 
 string minimize() {
